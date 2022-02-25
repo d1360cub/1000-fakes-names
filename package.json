@@ -1,0 +1,14 @@
+{
+  "name": "1000names",
+  "version": "1.0.0",
+  "description": "fake names generator",
+  "main": "fakeNames.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Cubides",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
